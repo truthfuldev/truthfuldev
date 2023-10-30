@@ -14,25 +14,6 @@
 
 Thanks a lot in advance! 
 
-## ⚡ Certifications
-
-<div style="display: flex; gap: 1.25%; width: 100%;">
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/angular_basic.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/css.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/java_basic.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/javascript_basic.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/nodejs_basic.png" width="19%"/>
-</div>
-
-<div style="display: flex; gap: 1.25%; width: 100%;">
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/problem_solving_basic.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/python_basic.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/react_basic.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/sql_advanced.png" width="19%"/>
-    <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/sql_basic.png" width="19%"/>
-</div>
-
-
 ## ⚡ Technologies
 
 <table align="center">
