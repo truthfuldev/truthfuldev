@@ -144,6 +144,42 @@ Thanks a lot in advance!
     </td>
   </tr>
 </table>
+
+## ⚡ Certifications
+  <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/angular_basic.png" width="45" height="45" alt="angular" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/css.png" alt="icon" width="90" height="55" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/java_basic.png" width="90" height="90" alt="java" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/javascript_basic.png" width="90" height="90" alt="javascript" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/nodejs_basic.png" width="90" height="90" alt="Nodejs" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/problem_solving_basic.png" width="45" height="45" alt="problem_solving" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/python_basic.png" alt="icon" width="90" height="55" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/react_basic.png" width="90" height="90" alt="react" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/sql_basic.png" width="90" height="90" alt="sql_basic" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/truthfuldev/truthfuldev/blob/main/source/certifications/sql_advanced.png" width="90" height="90" alt="sql_advanced" />
+    </td>
+  </tr>
  
 </p>
 
